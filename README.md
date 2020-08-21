@@ -2,7 +2,7 @@
 
 Paper: Gautam, C., Mishra, P.K., Tiwari, A., Richhariya, B., Pandey, H.M., Wang, S., Tanveer, M. and Alzheimer’s Disease Neuroimaging Initiative, 2020. Minimum variance-embedded deep kernel regularized least squares method for one-class classification and its applications to biomedical data. Neural Networks, 123, pp.191-216.
 
-Authors: Chandan Gautam, Pratik K Mishra, Aruna Tiwari, Bharat Richhariya, Hari Mohan Pandey, Shuihua Wang, M. Tanveer
+Authors: Chandan Gautam, Pratik K Mishra, Aruna Tiwari, Bharat Richhariya, Hari Mohan Pandey, Shuihua Wang, M. Tanveer.
 
 For execution, simply go to the one of the demo folders ('Demo_Alzheimer', 'Demo_mediumDatasets', or 'Demo_smallDatasets'), and open '.m' file in MATLAB and execute that. All source codes and datases are available in 'src' folder. This repository also contains implementation of the following papers for comparison: OCKELM
 
